@@ -1,0 +1,61 @@
+[{"_id":"668543b163b29d70c4e13697","projectName":"HR Hub
+Pro","category":"React","technology1":"NodeJS","technology2":"ExpressJS","technology3":"Stripe","technology4":"MongoDB","Intro":"HR
+management platform with features for employees, HR, and
+admins.","feature1":"Users can Sign Up as an Employee or HR.","feature2":"HR can
+Pay the Employees by Card.","feature3":"Admin can adjust the salary of
+Employees.","livelink":"https://hr-hub-pro.web.app","cgithublink":"https://github.com/younusFoysal/HR-Hub-Pro-Client","sgithublink":"https://github.com/younusFoysal/HR-Hub-Pro-Server","photo":"https://i.ibb.co/6XBnY2L/HrHubpro.png"},{"_id":"668551b71c1c7fc7bbeb147c","projectName":"Happy
+Tour","category":"React","technology1":"NodeJS","technology2":"Google
+Map","technology3":"aos","technology4":"MongoDB","Intro":"A comprehensive travel
+planning application designed to simplify the process of booking and organizing
+trips.","feature1":"User can Login with Google & Github
+account.","feature2":"User can Add,Update, Delete Tourists
+spots.","feature3":"Contact Us page contains a map with Company
+location.","livelink":"https://happy-tour-d80ae.web.app","cgithublink":"https://github.com/younusFoysal/Happy-Tour-Client","sgithublink":"https://github.com/younusFoysal/Happy-Tour-Server","photo":"https://i.ibb.co/2F9DWJr/2h3ge-S769.png"},{"_id":"668554681c1c7fc7bbeb147d","projectName":"Dream
+Job","category":"React","technology1":"NodeJS","technology2":"daisyui","technology3":"framer-motion","technology4":"MongoDB","Intro":"A
+web-based application simplifying job search by streamlining job discovery and
+application processes.","feature1":"Aggregates job listings.","feature2":"Allows
+users to search for jobs with filters.","feature3":"Users can keep track of
+their job
+applications.","livelink":"https://dream-job-36fe2.web.app","cgithublink":"https://github.com/younusFoysal/Dream-Job-Client","sgithublink":"https://github.com/younusFoysal/Dream-Job-Server","photo":"https://i.ibb.co/J7n49CL/PCm-Pl-Moj-L.png"},{"_id":"668555e71c1c7fc7bbeb147e","projectName":"React
+Setup
+Pro","category":"React","technology1":"NodeJS","technology2":"daisyui","technology3":"Tailwind","technology4":"MongoDB","Intro":"Its
+a tool to speed up new react app set up process.","feature1":"Users can Download
+Client/Server template.","feature2":"Users can select packages for
+project.","feature3":"Server/Client Deploy commands will speed up deployment
+process.","livelink":"https://reactsetuppro.web.app/","cgithublink":"https://github.com/younusFoysal/react-setup-pro","sgithublink":"","photo":"https://i.ibb.co/Lkrf1jz/Cropped-Image.jpg"},{"_id":"66a958df14f3672a38966b50","projectName":"Axion
+Pay","category":"React","technology1":"NodeJS","technology2":"ExpressJS","technology3":"axios","technology4":"MongoDB","Intro":"Axion
+Pay is a basic Mobile Financial Service (MFS) application, similar to bKash or
+Binance.","feature1":"Users can send money, cash-in,
+cash-out.","feature2":"Agents can accept cash-in, cash-out
+requests.","feature3":"Admin can manage user
+accounts.","livelink":"https://axion-pay.web.app","cgithublink":"https://github.com/younusFoysal/Axion-Pay-Client","sgithublink":"https://github.com/younusFoysal/Axion-Pay-Server","photo":"https://i.ibb.co/PTwxqrT/Lwo-JP-ja-1-cesavasr.png"},{"_id":"66b9f25690f79c3c4682e399","projectName":"PCIU
+HubSpot","category":"React","technology1":"NodeJS","technology2":"ExpressJS","technology3":"axios","technology4":"MongoDB","Intro":"The
+project aims to provide resources and information to students of PCIU, including
+a student name search, student CGPA, CR info, and officers
+info.","feature1":"Users can search students.","feature2":"Users can view
+Faculties info.","feature3":"Users can send message to
+Admin.","livelink":"https://pciuhubspot.web.app","cgithublink":"https://github.com/younusFoysal/PCIU-HubSpot-Client","sgithublink":"https://github.com/younusFoysal/PCIU-HubSpot-Server","photo":"https://i.ibb.co/X7cNptt/2-Xf-Kb-Dgsedfsf.png"},{"_id":"66bdec808914d4037585860f","projectName":"Eddox
+Hub","category":"React","technology1":"NodeJS","technology2":"ExpressJS","technology3":"axios","technology4":"MongoDB","Intro":"This
+is an Ecommerce app where users can search, filter, categorize, and sort
+products. ","feature1":"Users can search products by name.","feature2":" Filter
+products by brand, category, and price range.","feature3":"Sort products by
+price and date
+added.","livelink":"https://eddoxhub.web.app","cgithublink":"https://github.com/younusFoysal/Eddox-Hub-Client","sgithublink":"https://github.com/younusFoysal/Eddox-Hub-Server","photo":"https://i.ibb.co/k5Qmb1m/47fa1cd72vfdv23.png"},{"_id":"6727a99e28ce3eceb57a1ba6","projectName":"BabelForge","category":"React","technology1":"NodeJS","technology2":"NextJS","technology3":"Stripe","technology4":"MongoDB","Intro":"It’s
+a team collaboration tool designed to optimize team communication, collaboration
+and project management.","feature1":"User can manage tasks with drag and drop,
+table view, task calendar feature with Group chat and video
+meeting.","feature2":"Productivity enhancement tools like AI Assistant, Canvas,
+Notes, Diagram, Docs, Screen
+Record","feature3":"","livelink":"https://babel-forge.vercel.app/","cgithublink":"https://github.com/younusFoysal/BabelForge","sgithublink":"https://github.com/younusFoysal/BabelForge-Server","photo":"https://i.ibb.co/X7JHb20/S01s-ZJ9dfdg-CS.png","githublink":"https://github.com/younusFoysal/BabelForge","timestamp":1732050916727},{"_id":"673d029525072cc3b3abfd46","projectName":"Subtitle
+Generator","category":"Python","technology1":"FFmpeg","technology2":"pandas","technology3":"faster-whisper","technology4":"huggingface-hub","Intro":"Its
+a tool that generates English subtitles using AI models.","feature1":"Generate
+Subtitle of Videos","feature2":"Convert subtitle to SRT
+file","feature3":"","livelink":"https://github.com/younusFoysal/Subtitle-Generator","cgithublink":"https://github.com/younusFoysal/Subtitle-Generator","sgithublink":"","photo":"https://i.ibb.co/ww9mGBM/rs31h-PKSM.png","githublink":"https://github.com/younusFoysal/Subtitle-Generator","timestamp":1732051802348},{"_id":"673d05468753f57ae4b4a795","projectName":"Chat
+Bot","category":"Python","technology1":"numpy","technology2":"nltk","technology3":"pickle","technology4":"tkinter","Intro":"Its
+a chat bot tool which generates models based on data, then use that data in
+chat.","feature1":"","feature2":"","feature3":"","livelink":"https://github.com/younusFoysal/chat-bot-using-python","cgithublink":"https://github.com/younusFoysal/chat-bot-using-python","sgithublink":"","photo":"https://i.ibb.co/RSTYmMF/Lwo-JP-ja-1.png","githublink":"https://github.com/younusFoysal/chat-bot-using-python","timestamp":1732052837381},{"_id":"673d073cc869521e7b97a53b","projectName":"Hand
+Landmark
+Detection","category":"Python","technology1":"OpenCV","technology2":"MediaPipe","technology3":"","technology4":"","Intro":"Hand
+Landmark Detection Python OpenCV is the process of finding renowned human-made
+sculptures, buildings, and monuments inside a
+picture.","feature1":"","feature2":"","feature3":"","livelink":"https://github.com/younusFoysal/Hand-Landmark-Detection-OpenCV-Python","cgithublink":"https://github.com/younusFoysal/Hand-Landmark-Detection-OpenCV-Python","sgithublink":"","photo":"https://i.ibb.co/T25zdB8/x6-Dxu8f7u.png"}]
